@@ -1,5 +1,5 @@
 
-#大转盘
+# 大转盘
 
 原repo https://github.com/94cstyles/lottery
 
